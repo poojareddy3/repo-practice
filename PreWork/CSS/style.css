@@ -1,0 +1,48 @@
+
+		body{
+			background-color: lightblue;
+			font-style: normal;
+		}
+		#par{
+			font-size: large;
+		}
+		.headers{
+			text-decoration: underline;
+			color: darkred;
+		}
+		#single{
+			font-size: large;
+			color: darksalmon;
+		}
+		#imgpos1{
+			object-position: 10px;
+		}
+		p{
+			font-size: large;
+			color: darkgreen;
+		}
+		li{
+			font-style: italic;
+			font-size: large;
+			color: darkpink;
+		}
+		a{
+			color: purple;
+		}
+		#div1{
+			 width: 600px;
+			 position: relative;
+		}
+		#div3{
+			position: static;
+		}
+		#div1, #div2, #div3{
+			border: thick;
+		}
+		form{
+			padding: 5px;
+			width: 18%;
+			border-style: solid;
+			border-color: deeppink;
+		}
+	</style>
